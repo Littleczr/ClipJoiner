@@ -1,0 +1,22 @@
+# Visual Studio local state and build output
+.vs/
+x64/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.obj
+*.pdb
+*.res
+*.tlog
+*.log
+
+# vcpkg manifest-mode installed dependencies
+vcpkg_installed/
+
+# FFmpeg is downloaded separately and never committed
+ffmpeg*.exe
+ffprobe*.exe
+
+# Release zips are attached to GitHub Releases, not committed
+*.zip

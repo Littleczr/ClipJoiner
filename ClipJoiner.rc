@@ -1,0 +1,2 @@
+// Joiny app icon: the only RT_GROUP_ICON in this executable.
+JOINY_ICON ICON "assets\\joiny.ico"
